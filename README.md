@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevmstas&hide=prs,issues,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevmstas&hide=prs,issues,contribs&theme=radical&theme=tokyonight" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=nevmstas&show_icons=true&layout=compact&count_private=true&langs_count=6&theme=tokyonight" />
 
 <!--
 **nevmstas/nevmstas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
