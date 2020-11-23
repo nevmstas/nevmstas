@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevmstas&hide=prs,issues,contribs&theme=radical&theme=tokyonight" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=nevmstas&hide=prs,issues,contribs&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=nevmstas&show_icons=true&layout=compact&count_private=true&langs_count=6&theme=tokyonight"/>
