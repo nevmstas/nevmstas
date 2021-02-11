@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a JS/TS developer focusing on front-end. I want to bring interactivity and crazy ideas to the UI. I really like using cutting edge technologies, constantly studying new approaches and tools for solving problems in my projects.
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=nevmstas&hide=prs,issues,contribs&theme=tokyonight&show_icons=true" />
